@@ -1,0 +1,3 @@
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\Content\obj\x86\Debug\ResolveAssemblyReference.cache

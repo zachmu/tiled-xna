@@ -1,0 +1,36 @@
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\bin\x86\Debug\Content\tiles.xnb
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\bin\x86\Debug\TiledExample.exe
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\bin\x86\Debug\TiledExample.pdb
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\obj\x86\Debug\TiledExample.exe
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\obj\x86\Debug\TiledExample.pdb
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\bin\x86\Debug\Content\MapTest.tmx
+C:\Users\Stephen\Documents\Visual Studio 2008\Projects\Tiled\Example\bin\x86\Debug\Content\hero.xnb
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\obj\x86\Debug\TiledExample.exe
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\bin\x86\Debug\Content\tiles.xnb
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\bin\x86\Debug\Content\hero.xnb
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\bin\x86\Debug\Content\MapTest.tmx
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\bin\x86\Debug\TiledExample.exe
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\bin\x86\Debug\TiledExample.pdb
+C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\obj\x86\Debug\TiledExample.pdb
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\bin\x86\Debug\Content\tiles.xnb
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\bin\x86\Debug\Content\hero.xnb
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\bin\x86\Debug\Content\MapTest.tmx
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\bin\x86\Debug\TiledExample.exe
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\bin\x86\Debug\TiledExample.pdb
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\obj\x86\Debug\TiledExample.exe
+C:\Users\Zach Musgrave\Downloads\Tiled1\TiledXNA\Example\obj\x86\Debug\TiledExample.pdb
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\bin\x86\Debug\Content\tiles.xnb
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\bin\x86\Debug\Content\hero.xnb
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\bin\x86\Debug\Content\MapTest.tmx
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\bin\x86\Debug\TiledExample.exe
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\bin\x86\Debug\TiledExample.pdb
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\obj\x86\Debug\TiledExample.exe
+C:\Users\Zach Musgrave\Downloads\TiledXNA\TiledXNA\Example\obj\x86\Debug\TiledExample.pdb

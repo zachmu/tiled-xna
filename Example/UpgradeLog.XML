@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TiledExample">
+</Property><Property Name="Solution File" Value="C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\TiledExample.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\TiledExample.suo">
+</Property><Property Name="Date" Value="Thursday, August 02, 2012">
+</Property><Property Name="Time" Value="18:35 PM">
+</Property><Property Name="Solution" Value="TiledExample">
+</Property><Property Name="Solution File" Value="C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\TiledExample.sln">
+</Property><Property Name="Date" Value="Thursday, August 02, 2012">
+</Property><Property Name="Time" Value="18:35:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TiledExample.sln" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\TiledExample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TiledExample.suo" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\TiledExample.suo">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="TiledExample.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="TiledExample.csproj" Description="Project file successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\TiledExample.csproj">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="Program.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="..\Tiled.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\..\Tiled.cs">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="TiledExample.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\TiledExample.cs">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="Game.ico" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Game.ico">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="GameThumbnail.png" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="TiledExample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TiledExample" Source="TiledExample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="TiledExample360.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="TiledExample360.csproj" Description="Project file successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\TiledExample360.csproj">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="Properties\AssemblyInfo.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="Program.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Program(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="Program.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Program(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="TiledExample.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\TiledExample(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="TiledExample.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\TiledExample(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="..\Tiled.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\..\Tiled(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="..\Tiled.cs" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\..\Tiled(2).cs">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="Game.ico" Description="Backup file name conflict.  Renaming file to:  C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Game(2).ico">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="Game.ico" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\Game(2).ico">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="GameThumbnail.png" Description="Backup file name conflict.  Renaming file to:  C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\GameThumbnail(2).png">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="GameThumbnail.png" Description="File successfully backed up as C:\Users\Zach Musgrave\Downloads\Tiled1\Tiled\Example\Backup\GameThumbnail(2).png">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="TiledExample360.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TiledExample360" Source="TiledExample360.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TiledExample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TiledExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="TiledExample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TiledExample" Source="TiledExample.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="hero.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="MapTest.tmx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="tiles.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="ExampleContent" Source="Content\ExampleContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="TiledExample360.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TiledExample360" Source="TiledExample360.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event></UpgradeLog>
