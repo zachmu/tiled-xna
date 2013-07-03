@@ -42,7 +42,7 @@ Copyright (C) 2009 Kevin Gadd
  * - Fixed exception when loading an object without a height or width attribute
  * - Fixed property loading bugs (properties now loaded for Layers, Maps, Objects)
  * - Added support for margin and spacing in tile sets
- * - CF-compatible System.IO.Compression library available at http://www.aspecto-software.com/rw/applications/developer/compression/
+ * - CF-compatible System.IO.Compression library available via GitHub release. See releases at https://github.com/zachmu/tiled-xna
  * 
  * Zach Musgrave zach.musgrave@gmail.com http://gamedev.sleptlate.org
  */
@@ -149,9 +149,9 @@ namespace Squared.Tiled {
             if (index < 0)
                 return false;
 
-            int rowSize = _TexWidth / TileWidth;
+            int rowSize = _TexWidth / (TileWidth + Spacing);
             int row = index / rowSize;
-            int numRows = _TexHeight / TileHeight;
+            int numRows = _TexHeight / (TileHeight + Spacing);
             if (row >= numRows)
                 return false;
 

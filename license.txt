@@ -18,3 +18,9 @@ Copyright (C) 2009 Kevin Gadd
   3. This notice may not be removed or altered from any source distribution.
 
   Kevin Gadd kevin.gadd@gmail.com http://luminance.org/
+  
+  Updates by Stephen Belanger - July, 13 2009
+
+  Further updates and continued maintenance by Zach Musgrave - August 2012.
+
+  Zach Musgrave zach.musgrave@gmail.com http://gamedev.sleptlate.org
