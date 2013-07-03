@@ -1,3 +1,0 @@
-Content\tiles.xnb
-Content\hero.xnb
-Content\MapTest.tmx
