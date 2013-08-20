@@ -59,6 +59,7 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework;
 using System.IO;
 using System.IO.Compression;
+using System.Globalization;
 
 namespace Squared.Tiled {
     public class Tileset {
@@ -194,17 +195,26 @@ namespace Squared.Tiled {
 
         internal static Layer Load(XmlReader reader)
         {
+            CultureInfo ci = (CultureInfo)CultureInfo.CurrentCulture.Clone();
+            ci.NumberFormat.CurrencyDecimalSeparator = ".";
             var result = new Layer();
 
             if (reader.GetAttribute("name") != null)
+            {
                 result.Name = reader.GetAttribute("name");
+            }
             if (reader.GetAttribute("width") != null)
+            {
                 result.Width = int.Parse(reader.GetAttribute("width"));
+            }
             if (reader.GetAttribute("height") != null)
+            {
                 result.Height = int.Parse(reader.GetAttribute("height"));
+            }    
             if (reader.GetAttribute("opacity") != null)
-                result.Opacity = float.Parse(reader.GetAttribute("opacity"));
-
+            {                
+                result.Opacity = float.Parse(reader.GetAttribute("opacity"), NumberStyles.Any, ci);
+            }
             result.Tiles = new int[result.Width * result.Height];
             result.FlipAndRotate = new byte[result.Width * result.Height];
 
@@ -481,6 +491,8 @@ namespace Squared.Tiled {
         internal static ObjectGroup Load(XmlReader reader)
         {
             var result = new ObjectGroup();
+            CultureInfo ci = (CultureInfo)CultureInfo.CurrentCulture.Clone();
+            ci.NumberFormat.CurrencyDecimalSeparator = ".";
 
             if (reader.GetAttribute("name") != null)
                 result.Name = reader.GetAttribute("name");
@@ -493,7 +505,7 @@ namespace Squared.Tiled {
             if (reader.GetAttribute("y") != null)
                 result.Y = int.Parse(reader.GetAttribute("y"));
             if(reader.GetAttribute("opacity") != null)
-                result.Opacity = float.Parse(reader.GetAttribute("opacity"));
+                result.Opacity = float.Parse(reader.GetAttribute("opacity"), NumberStyles.Any, ci);
 
             while (!reader.EOF)
             {
@@ -510,7 +522,14 @@ namespace Squared.Tiled {
                                     {
                                         st.Read();
                                         var objects = Object.Load(st);
-                                        result.Objects.Add(objects.Name, objects);
+                                        if (!result.Objects.ContainsKey(objects.Name))
+                                        {
+                                            result.Objects.Add(objects.Name, objects);
+                                        }
+                                        else {
+                                            int count = result.Objects.Keys.Count((item) => item.Equals(objects.Name));
+                                            result.Objects.Add(string.Format("{0}{1}", objects.Name, count), objects);
+                                        }
                                     }
                                 } break;
                             case "properties":
@@ -728,7 +747,10 @@ namespace Squared.Tiled {
                                             {
                                                 st.Read();
                                                 var layer = Layer.Load(st);
-                                                result.Layers.Add(layer.Name, layer);
+                                                if (null != layer)
+                                                {
+                                                    result.Layers.Add(layer.Name, layer);
+                                                }
                                             }
                                         } break;
                                     case "objectgroup":
